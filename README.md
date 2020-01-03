@@ -96,6 +96,7 @@ Follow these instructions above to seed the database with sample users to get st
 
 ## Built with
 * [GraphQL Yoga 🧘](https://github.com/prisma-labs/graphql-yoga)
+* [MongooseJS](https://mongoosejs.com/)
 * [No-Sweat™ Eslint and Prettier Setup](https://github.com/wesbos/eslint-config-wesbos)
 
 ## Roadmap
